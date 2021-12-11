@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- ######### Strings Login ############ -->
+    <string name="app_name">Sprint_3</string>
+    <string name="user">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+
+    <!-- ######### Strings Registro ############ -->
+    <string name="et_id">No. Documento</string>
+    <string name="et_nombre">Nombres</string>
+    <string name="et_correo">Correo</string>
+    <string name="et_conf_correo">Confirmar Correo</string>
+    <string name="pass_reg">Contraseña</string>
+    <string name="et_conf_pass_reg">Confirmar Contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+
+
+    <string name="ic_lost_pass">Correo</string>
+
+</resources>
